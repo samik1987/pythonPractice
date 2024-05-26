@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e97d96de-b5d2-48e3-9b2d-9e4efaa20b66" name="Changes" comment="First Practice Project Commit">
-      <change afterPath="$PROJECT_DIR$/.venv/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e97d96de-b5d2-48e3-9b2d-9e4efaa20b66" name="Changes" comment="Practice with calculation Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716713035057</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Practice with calculation Commit">
+      <option name="closed" value="true" />
+      <created>1716716674895</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716716674895</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Practice Project Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Practice Project Commit" />
+    <MESSAGE value="Practice with calculation Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice with calculation Commit" />
   </component>
 </project>
