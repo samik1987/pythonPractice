@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e97d96de-b5d2-48e3-9b2d-9e4efaa20b66" name="Changes" comment="Practice with calculation Commit">
+    <list default="true" id="e97d96de-b5d2-48e3-9b2d-9e4efaa20b66" name="Changes" comment="changes with string Commit">
+      <change afterPath="$PROJECT_DIR$/.venv/arithmatic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/string.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +41,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.arithmatic.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.loop.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.operator.executor": "Run",
+    "Python.string.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -90,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716716674895</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="changes with string Commit">
+      <option name="closed" value="true" />
+      <created>1716717672225</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716717672225</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Practice Project Commit" />
     <MESSAGE value="Practice with calculation Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice with calculation Commit" />
+    <MESSAGE value="changes with string Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes with string Commit" />
   </component>
 </project>
